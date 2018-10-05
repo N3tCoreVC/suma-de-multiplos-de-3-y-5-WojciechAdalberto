@@ -1,0 +1,11 @@
+C:\Aplica\VSCore\sum3y5\bin\Debug\netcoreapp2.1\sum3y5.deps.json
+C:\Aplica\VSCore\sum3y5\bin\Debug\netcoreapp2.1\sum3y5.runtimeconfig.json
+C:\Aplica\VSCore\sum3y5\bin\Debug\netcoreapp2.1\sum3y5.runtimeconfig.dev.json
+C:\Aplica\VSCore\sum3y5\bin\Debug\netcoreapp2.1\sum3y5.dll
+C:\Aplica\VSCore\sum3y5\bin\Debug\netcoreapp2.1\sum3y5.pdb
+C:\Aplica\VSCore\sum3y5\obj\Debug\netcoreapp2.1\sum3y5.csprojAssemblyReference.cache
+C:\Aplica\VSCore\sum3y5\obj\Debug\netcoreapp2.1\sum3y5.csproj.CoreCompileInputs.cache
+C:\Aplica\VSCore\sum3y5\obj\Debug\netcoreapp2.1\sum3y5.AssemblyInfoInputs.cache
+C:\Aplica\VSCore\sum3y5\obj\Debug\netcoreapp2.1\sum3y5.AssemblyInfo.cs
+C:\Aplica\VSCore\sum3y5\obj\Debug\netcoreapp2.1\sum3y5.dll
+C:\Aplica\VSCore\sum3y5\obj\Debug\netcoreapp2.1\sum3y5.pdb
